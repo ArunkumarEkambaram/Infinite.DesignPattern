@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.DesignPattern.Singleton", "Infinite.DesignPattern.Singleton\Infinite.DesignPattern.Singleton.csproj", "{EE21E517-2AEA-4A72-8CB5-3C6A53CA992D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.DesignPattern.Factory", "Infinite.DesignPattern.Factory\Infinite.DesignPattern.Factory.csproj", "{ACA57B9A-B5BE-42CE-B66C-3CB12ED9D1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE21E517-2AEA-4A72-8CB5-3C6A53CA992D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE21E517-2AEA-4A72-8CB5-3C6A53CA992D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE21E517-2AEA-4A72-8CB5-3C6A53CA992D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE21E517-2AEA-4A72-8CB5-3C6A53CA992D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA57B9A-B5BE-42CE-B66C-3CB12ED9D1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA57B9A-B5BE-42CE-B66C-3CB12ED9D1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA57B9A-B5BE-42CE-B66C-3CB12ED9D1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA57B9A-B5BE-42CE-B66C-3CB12ED9D1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E7C945-CD7E-44D4-B973-03F376CB5160}
+	EndGlobalSection
+EndGlobal
